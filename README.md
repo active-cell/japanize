@@ -17,4 +17,4 @@ https://www.reddit.com/r/glitch_art/comments/1kztnf/japanization_python_pixel_ed
  * used interact_manual widget to let the user play with the settings
 
 The images are locate on an img subfoder, all the images are form pexels
-pexels.com
+https://www.pexels.com/
