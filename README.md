@@ -15,3 +15,6 @@ https://www.reddit.com/r/glitch_art/comments/1kztnf/japanization_python_pixel_ed
  * encapsulated the orignal program into a japanize function
  * got the threshold in the main function to allow for interaction at higher level
  * used interact_manual widget to let the user play with the settings
+
+The images are locate on an img subfoder, all the images are form pexels
+pexels.com
